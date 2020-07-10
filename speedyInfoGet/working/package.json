@@ -1,0 +1,16 @@
+{
+    "name": "speedyInfoGet",
+    "version": "1.0.0",
+    "description": "get quick information by LINE",
+    "main": "speedyinfoget.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node speedyinfoget.js"
+    },
+    "author": "허인경",
+    "license": "MIT",
+    "dependencies": {
+      "npm": "^6.16.4"
+    }
+  }
+  
